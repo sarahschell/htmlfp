@@ -1,0 +1,12 @@
+/* this is the CSS for the BARtest page*/
+
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:chocolate;
+    background: blue;
+}
+
